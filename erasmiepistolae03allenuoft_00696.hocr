@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./erasmiepistolae03allenuoft_00696.png"; bbox 0 0 825 1433; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 182 98 825 1433">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 182 98 825 1433">
+     <span class='ocr_line' id='line_1_1' title="bbox 182 98 825 1433; textangle 270"><span class='ocrx_word' id='word_1_1' title='bbox 182 98 825 1433; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 103 222 162 1214">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 103 222 162 1214">
+     <span class='ocr_line' id='line_1_2' title="bbox 103 222 162 1214; textangle 270"><span class='ocrx_word' id='word_1_2' title='bbox 123 222 162 522; x_wconf 74' lang='lat' dir='ltr'><strong>GretaqMacbeth&#39;“</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 118 536 153 790; x_wconf 76' lang='lat' dir='ltr'>Coloerecker</span> <span class='ocrx_word' id='word_1_4' title='bbox 114 806 145 906; x_wconf 74' lang='lat' dir='ltr'>Color</span> <span class='ocrx_word' id='word_1_5' title='bbox 108 921 141 1098; x_wconf 75' lang='lat' dir='ltr'><strong>Rendffion</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 103 1113 135 1214; x_wconf 70' lang='lat' dir='ltr'><strong>Chat-t</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
